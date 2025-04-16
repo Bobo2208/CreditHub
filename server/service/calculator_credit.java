@@ -194,4 +194,9 @@ public class CreditService {
     public List<CerereCredit> getCereriCreditClient(Long clientId) {
         return cerereCreditRepository.findByClientId(clientId);
     }
+
+
+
+
+    /*/me
 }
