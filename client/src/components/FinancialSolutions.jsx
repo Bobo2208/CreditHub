@@ -21,7 +21,6 @@ const FinancialSolutions = () => {
           </p>
         </div>
 
-        {/* First Row of Solutions */}
         <Row className="g-4 mb-4">
           <Col md={4}>
             <Card className="h-100 border-0 text-center p-4 shadow-sm">
