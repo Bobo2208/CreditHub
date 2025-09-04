@@ -1,0 +1,6 @@
+@Incercare_HostAddress = http://localhost:5079
+
+GET {{Incercare_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
